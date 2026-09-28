@@ -1,0 +1,67 @@
+﻿FormulaBey Companion - Son Kullanıcı Lisans Sözleşmesi
+Telif Hakkı (c) 2026 FormulaBey. Tüm hakları saklıdır.
+
+Bu yazılımı kurarak veya kullanarak aşağıdaki şartları kabul etmiş olursunuz. Kabul etmiyorsanız yazılımı kurmayın ve kullanmayın.
+
+1. Lisans
+FormulaBey size bu yazılımı kişisel ve ticari olmayan amaçla kullanmanız için devredilemez, münhasır olmayan, sınırlı bir lisans verir. Yazılım satılmaz, lisanslanır.
+
+2. Kısıtlamalar
+Yazılımı veya herhangi bir parçasını:
+- kopyalayamaz, dağıtamaz, satamaz, kiralayamaz, ödünç veremez, alt lisans veremezsiniz;
+- değiştiremez, tersine mühendislik yapamaz, kaynak koda dönüştüremez veya çözümleyemezsiniz;
+- hesap, üyelik veya lisans kontrollerini atlatamaz, devre dışı bırakamazsınız;
+- hesabınızı veya erişim bilgilerinizi başkalarıyla paylaşamazsınız.
+
+3. Hesap ve üyelik
+Yazılımın bazı özellikleri bir FormulaBey hesabı ve geçerli bir üyelik gerektirir. FormulaBey, bu sözleşmenin ihlali veya kötüye kullanım durumunda hesabı askıya alabilir veya kapatabilir.
+
+4. Mülkiyet
+Yazılım, arayüzü, logoları ve diğer içeriği FormulaBey'e aittir ve telif hakkı ile korunur. Yazılımda geçen oyun adları ve logoları ilgili sahiplerinin ticari markalarıdır; yalnızca uyumluluğu belirtmek için kullanılır.
+
+5. Garanti yoktur
+Yazılım "olduğu gibi" sunulur. FormulaBey, yazılımın kesintisiz, hatasız veya belirli bir amaca uygun olacağını garanti etmez.
+
+6. Sorumluluğun sınırlandırılması
+Yürürlükteki hukukun izin verdiği ölçüde FormulaBey, yazılımın kullanımından veya kullanılamamasından doğan dolaylı veya doğrudan zararlardan sorumlu değildir.
+
+7. Sona erme
+Bu şartlardan herhangi birini ihlal ederseniz lisansınız kendiliğinden sona erer ve yazılımı silmeniz gerekir.
+
+8. Uygulanacak hukuk
+Bu sözleşme Türkiye Cumhuriyeti kanunlarına tabidir.
+
+----------------------------------------------------------------------
+
+FormulaBey Companion - End User License Agreement
+Copyright (c) 2026 FormulaBey. All rights reserved.
+
+By installing or using this software you agree to the terms below. If you do not agree, do not install or use the software.
+
+1. Licence
+FormulaBey grants you a non-transferable, non-exclusive, limited licence to use this software for personal, non-commercial purposes. The software is licensed, not sold.
+
+2. Restrictions
+You may not, in whole or in part:
+- copy, distribute, sell, rent, lend or sublicense the software;
+- modify, reverse engineer, decompile or disassemble the software;
+- bypass or disable account, membership or licence checks;
+- share your account or access details with others.
+
+3. Account and membership
+Some features require a FormulaBey account and a valid membership. FormulaBey may suspend or close an account that breaches this agreement or is misused.
+
+4. Ownership
+The software, its interface, logos and other content belong to FormulaBey and are protected by copyright. Game names and logos shown in the software are trademarks of their respective owners and are used only to indicate compatibility.
+
+5. No warranty
+The software is provided "as is". FormulaBey does not warrant that it will be uninterrupted, error-free or fit for a particular purpose.
+
+6. Limitation of liability
+To the extent permitted by applicable law, FormulaBey is not liable for any direct or indirect damages arising from the use of, or inability to use, the software.
+
+7. Termination
+If you breach any of these terms your licence ends automatically and you must delete the software.
+
+8. Governing law
+This agreement is governed by the laws of the Republic of Turkey.
