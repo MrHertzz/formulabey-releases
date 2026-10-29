@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Simwall: sim yarışçısının pit duvarı">
+  <defs>
+    <pattern id="carbon" width="12" height="12" patternUnits="userSpaceOnUse">
+      <rect width="12" height="12" fill="#0b0c0f"/>
+      <rect width="6" height="6" fill="#111318"/>
+      <rect x="6" y="6" width="6" height="6" fill="#111318"/>
+    </pattern>
+    <linearGradient id="stripe" x1="0" x2="1">
+      <stop offset="0" stop-color="#f97316"/>
+      <stop offset="1" stop-color="#dc2626"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0.45" stop-color="#0b0c0f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#0b0c0f" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" fill="url(#carbon)"/>
+  <!-- racing stripes -->
+  <polygon points="760,0 860,0 640,360 540,360" fill="url(#stripe)" opacity="0.9"/>
+  <polygon points="880,0 910,0 690,360 660,360" fill="#f97316" opacity="0.55"/>
+  <rect width="1280" height="360" fill="url(#fade)"/>
+  <!-- chequered corner -->
+  <g opacity="0.18" transform="translate(1100,0)">
+    <rect x="0" y="0" width="30" height="30" fill="#fff"/><rect x="60" y="0" width="30" height="30" fill="#fff"/><rect x="120" y="0" width="30" height="30" fill="#fff"/>
+    <rect x="30" y="30" width="30" height="30" fill="#fff"/><rect x="90" y="30" width="30" height="30" fill="#fff"/><rect x="150" y="30" width="30" height="30" fill="#fff"/>
+    <rect x="60" y="60" width="30" height="30" fill="#fff"/><rect x="120" y="60" width="30" height="30" fill="#fff"/>
+    <rect x="90" y="90" width="30" height="30" fill="#fff"/><rect x="150" y="90" width="30" height="30" fill="#fff"/>
+  </g>
+  <g font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#fff">
+    <text x="72" y="150" font-size="96" font-weight="800" letter-spacing="10">SIMWALL</text>
+    <text x="76" y="200" font-size="26" fill="#d1d5db">Sim yarışçısının pit duvarı</text>
+    <text x="76" y="236" font-size="18" fill="#9ca3af">Overlay · Sesli mühendis · AI Coach · Telemetri · Tablet ekranı</text>
+    <g font-size="15" font-weight="600" fill="#f3f4f6">
+      <rect x="76" y="276" width="62" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="91" y="296">ACC</text>
+      <rect x="148" y="276" width="86" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="163" y="296">iRacing</text>
+      <rect x="244" y="276" width="62" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="259" y="296">LMU</text>
+      <rect x="316" y="276" width="62" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="333" y="296">F1</text>
+      <rect x="388" y="276" width="54" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="403" y="296">AC</text>
+      <rect x="452" y="276" width="86" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="467" y="296">AC EVO</text>
+      <rect x="548" y="276" width="96" height="30" rx="15" fill="#1f2329" stroke="#f97316"/><text x="563" y="296">AC Rally</text>
+    </g>
+  </g>
+</svg>
